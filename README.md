@@ -14,9 +14,10 @@ This repository contains some basic Fortran tutorials I made for myself to learn
 │   ├── expdecay.f95
 │── 004 (Contains the basic use of modules)
 │   ├── main.f95
-│   ├── init.f95
-│   ├── arrays.f95
-│   ├── parameters.f95
+│   ├── init.f95 (Initial conditions)
+│   ├── arrays.f95 (File to define arrays)
+│   ├── parameters.f95  (File to define the parameters)
+│   ├── ode.f95 (Some ODE Solvers subroutines)
 
 
 
