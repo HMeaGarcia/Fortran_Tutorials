@@ -2,6 +2,8 @@
 
 This repository contains some basic Fortran tutorials I made for myself to learn Fortran. 
 
+### Structure
+
 ```
 .
 ├── .gitignore (Archivos que se ignorarán para subir al repositorio)
