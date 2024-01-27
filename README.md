@@ -12,6 +12,13 @@ This repository contains some basic Fortran tutorials I made for myself to learn
 │   ├── loops.f95
 │── 003
 │   ├── expdecay.f95
+│── 004 (Contains the basic use of modules)
+│   ├── main.f95
+│   ├── init.f95
+│   ├── arrays.f95
+│   ├── parameters.f95
+
+
 
 
 
